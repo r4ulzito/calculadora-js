@@ -4,7 +4,7 @@
   <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
 </div>
 
-> 🔎 Calculadorea digital, para calculos de divisão, multiplicação, adição e subtração
+> 🔎 Calculadorea digital para cálculos de divisão, multiplicação, adição e subtração
 
 🗔 Confira a aplicação: https://calculator-js-1.netlify.app <br>
 
@@ -31,7 +31,7 @@ Neste projeto desenvolvi uma calculadora online 100% funcional, nela é possivel
 ✅ Utilização de métodos de array como `split()`\
 ✅ Uso da condicial switch case para funcionamento da calculadora\
 ✅ Responsividade\
-✅ Uso de atributos globai `data-` no html\
+✅ Uso de atributos globai `data-` no html
 
 ## 🤝 Colaboradores
 
