@@ -1,10 +1,10 @@
 <h1 align="center">➗ CALCULADORA DIGITAL</h1>
 
 <div align="center">
-  <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+  <img src="https://user-images.githubusercontent.com/97764322/183759512-b0bc8beb-62b9-497a-ab61-bdc42cfab75e.gif" alt="Descrição da imagem">
 </div>
 
-> 🔎 Calculadorea digital para cálculos de divisão, multiplicação, adição e subtração
+> 🔎 Calculadora digital para cálculos de divisão, multiplicação, adição e subtração
 
 🗔 Confira a aplicação: https://calculator-js-1.netlify.app <br>
 
