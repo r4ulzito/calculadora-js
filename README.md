@@ -4,46 +4,34 @@
   <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
 </div>
 
-> 🔎 Descrição do projeto (1 a 3 linhas)
+> 🔎 Calculadorea digital, para calculos de divisão, multiplicação, adição e subtração
 
-🗔 Confira a aplicação: https://www.linkedin.com/in/raul-de-souza/ <br>
+🗔 Confira a aplicação: https://calculator-js-1.netlify.app <br>
 
 ## 📄 Explicação
 
-Explicação de como funciona o projeto, os components utilizados, ideia do projeto, etc...
+Neste projeto desenvolvi uma calculadora online 100% funcional, nela é possivel fazer calculos com os operadore padrões da matemática, como divisão, multiplicação, adição e subtração.
 
 ## 🚀 Tecnologias
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 3](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 4](https://www.linkedin.com/in/raul-de-souza/)
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📚 Bibliotecas Usadas
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [Google Fonts](https://fonts.google.com/)
 
 ## 📔 Conhecimentos Utilizados
 
+✅ Estruturação de diretórios\
 ✅ Uso semântico do HTML\
-✅ Integração com a API do TMDB ao usar o `fetch`
-
-## 📕 Como usar?
-
-Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalados.
-
-```bash
-# Clone this project
-$ git clone LINK DO SEU REPOSITÓRIO
-# Access
-$ cd NOME DA SUA PASTA
-# Install dependencies
-$ yarn or npm
-# Run the project
-$ yarn start or npm start
-# The server will initialize in the <http://localhost:3000>
-```
+✅ Estrutura váriaveis globais no script\
+✅ Uso de Classes e Métodos no script\
+✅ Utilização de métodos de array como `split()`\
+✅ Uso da condicial switch case para funcionamento da calculadora\
+✅ Responsividade\
+✅ Uso de atributos globai `data-` no html\
 
 ## 🤝 Colaboradores
 
@@ -71,3 +59,4 @@ Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para o
 <div align="center">
   <a href="#top">Volte para o topo</a>
 </div>
+```
